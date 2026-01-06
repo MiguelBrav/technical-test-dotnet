@@ -1,5 +1,8 @@
 <Solution>
+  <Project Path="../BasicTestsSample/BasicTestsSample.csproj" Id="745b3622-970d-4303-8560-ebd9f155cd09" />
   <Project Path="../CounterCharString/CounterCharString.csproj" />
+  <Project Path="../FizzBuzz/FizzBuzzLike.csproj" Id="0f2e2956-dd37-4dc0-a782-57934b575eab" />
   <Project Path="../NumberCounterString/NumberCounterString.csproj" />
+  <Project Path="../ReverseArray/ReverseArray.csproj" Id="1a9adf5d-547f-4525-989e-4bd725d549d9" />
   <Project Path="WordCounter.csproj" />
 </Solution>
